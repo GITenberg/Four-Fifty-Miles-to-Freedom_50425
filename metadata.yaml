@@ -1,4 +1,8 @@
 _repo: Four-Fifty-Miles-to-Freedom_50425
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50425-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Johnston, Maurice Andrew Brackenreed
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '45901'
     url: http://www.gutenberg.org/2009/agents/45901
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50425#Four-Fifty-Miles-to-Freedom
 gutenberg_issued: '2015-11-10'
 gutenberg_type: Text
 identifiers:
